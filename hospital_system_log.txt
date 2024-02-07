@@ -1,0 +1,30 @@
+normal mode 
+[Read Patient From File Logged] 
+normal mode 
+[Bulk Add Logged] 
+normal mode 
+[Print Report Logged] 
+normal mode 
+[Read Patient From File Logged] 
+normal mode 
+[Treat Patients Logged] 
+normal mode 
+[Treat Patients By Doctor Logged] 
+normal mode 
+[Add Patient Logged] 
+normal mode 
+[Read Patient From File Logged] 
+normal mode 
+[Add Patient Logged] 
+normal mode 
+[Read Patient From File Logged] 
+normal mode 
+[Add Patient Logged] 
+normal mode 
+[Print Report Logged] 
+normal mode 
+[Read Patient From File Logged] 
+normal mode 
+[Add Patient Logged] 
+normal mode 
+[Treat Patients Logged] 
